@@ -7,7 +7,7 @@ to make data able to use the two dimensional convolutional network, the shape of
 ![augmented (2)](https://user-images.githubusercontent.com/80203915/196021071-76a04ddf-c28e-4e37-8598-fb967bf3edcc.jpg)
 
 <p align="center">
-  <img src="[your_relative_path_here](https://user-images.githubusercontent.com/80203915/196021262-0709f2ef-262d-4cdb-88aa-0609bcce1ea8.jpg)" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/80203915/196021262-0709f2ef-262d-4cdb-88aa-0609bcce1ea8.jpg" width="350" title="hover text">
 </p>
 
 ![networl](https://user-images.githubusercontent.com/80203915/196021262-0709f2ef-262d-4cdb-88aa-0609bcce1ea8.jpg)
