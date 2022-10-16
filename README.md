@@ -10,11 +10,15 @@ to make data able to use the two dimensional convolutional network, the shape of
 </p>
 
 
-**Trining**
+**Trining:**
+
+
  The designed network has been shown in the following network. This network has been inspired from the EEGNet which is well-known for the the analysing EEG signals. The obtianed results from this network has compared with the famous networks for image and signal processing like VGG16, Inception, Resnet. Results show that the designed architecture is able to extract focus index from EEG signals more accurately. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80203915/196021262-0709f2ef-262d-4cdb-88aa-0609bcce1ea8.jpg" width="500" title="Desgined Network">
 </p>
+
+The full report could be found here:
 
 [Report.docx](https://github.com/mahdieghane/DL_Project/files/9793663/Report.docx)
